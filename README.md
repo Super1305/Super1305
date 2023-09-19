@@ -2,7 +2,7 @@ Hi there 👋
 
 🔭 I’m currently looking for new job opportunities in Data Analysis / Data Science / Business Analysis.
 
-10+ years of experience in Data Analysis, Business Intelligence, Business Analysis, Sales Operations, Project Management, Demand Forecasting, Sales etc. at FMCG (Procter & Gamble, Kimberly-Clark), Media (Group4M). Successfully completed numerous tasks and projects like “E2E monitoring brands’ presence in stores” with ETL pipelines / DWH implementation, Tableau dashboard design and development, further performance results’ analysis and next steps’ recommendations to Lead Team via effective presentations that delivered 15+% sales growth. I graduated from Lomonosov Moscow State University with Ph.D. in Applied Math.
+15+ years of experience in Data Analysis, Business Intelligence, Business Analysis, Sales Operations, Project Management, Demand Forecasting, Sales etc. at FMCG (Procter & Gamble, Kimberly-Clark), Media (Group4M). Successfully completed numerous tasks and projects like “E2E monitoring brands’ presence in stores” with ETL pipelines / DWH implementation, Tableau dashboard design and development, further performance results’ analysis and next steps’ recommendations to Lead Team via effective presentations that delivered 15+% sales growth. I graduated from Lomonosov Moscow State University with Ph.D. in Applied Math.
 
 My technical stack includes:
 1.	Data Analysis: Python (+libraries), SQL (PostgreSQL, ClickHouse etc.), advanced Excel.
