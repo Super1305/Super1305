@@ -7,7 +7,7 @@ Hi there 👋
 My technical stack includes:
 1.	Data Analysis: Python (+libraries), SQL (PostgreSQL, ClickHouse etc.), advanced Excel.
 2.	Data Visualization and analysis (BI): Tableau/PowerBI/Redash/Datalens.
-3.	Statistics: A/B and A/A testing, Bootstrap etc.
+3.	Statistical analysis including hypothesis validation.
 4.	Data Engineering: Design of DWH/OLAP, ETL/ELT pipelines via Apache Airflow.
 5.	Classic Machine Learning methods: regression, classification, clustering.
 6.	Software version control: Git + Linux.
