@@ -13,10 +13,10 @@ My technical stack includes:
 6.	Neural Network Basics: TensorFlow / Keras.
 7.	Software version control: Git + Linux.
 8.	Product Analytics: Key metrics and analysis’ methods (Cohort, RFM, LTV and others).
-9.	Financial Analysis: Analysis of financial statements, Unit-economy, financial modeling etc.
-In recent months I've been studying new areas in Machine and Deep Learning (Time Series, Recommendatory systems etc.) and Data Engineering (MPP, Greenplum, Hadoop, Spark etc.) to grow further my skills in Data Science.
+9.	Financial Analysis: Analysis of financial statements, Unit-economy, financial modeling etc.  
+In recent months I've been studying new areas in Machine and Deep Learning (Time Series, Recommendatory systems etc.) and Data Engineering (MPP, Greenplum, Hadoop, Spark etc.) to grow further my skills in Data Science.  
 
-This is the link to the list of Certificates and Diplomas for completed courses: https://docs.google.com/document/d/10b3Bwa1oF2B9raTmVE5Nkra52efjLsbC/edit?usp=drive_link.
+This is the link to the list of Certificates and Diplomas for completed courses: https://docs.google.com/document/d/10b3Bwa1oF2B9raTmVE5Nkra52efjLsbC/edit?usp=drive_link.  
 
 More information about my work experience can be found  in my [CV](https://docs.google.com/document/d/1-aXeiVeW0HkGBIXJGcGemxd5B2ceEsBf/edit?usp=drive_link&ouid=115701271018201293889&rtpof=true&sd=true) or in my [Linkedin profile](https://www.linkedin.com/in/igor-grebeniuk-5993b88/).
 
