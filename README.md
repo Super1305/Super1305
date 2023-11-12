@@ -1,14 +1,14 @@
 Hi there 👋
 
-🔭 I’m currently looking for new job opportunities in Data Analysis / Data Science / Business Analysis.
+🔭 I’ve found the role of Data Analyst but in some future, may be interested in new role in Data Science.
 
 15+ years of experience in Data Analysis, Business Intelligence, Business Analysis, Sales Operations, Project Management, Demand Forecasting, Sales etc. at FMCG (Procter & Gamble, Kimberly-Clark), Media (Group4M). I graduated from Lomonosov Moscow State University with Ph.D. in Applied Math.
 
 My technical stack includes:
-1.	Data Analysis: Python (+libraries), SQL (PostgreSQL, ClickHouse etc.), advanced Excel.
+1.	Data Analysis: Python (+libraries), PySpark, SQL (PostgreSQL, ClickHouse etc.), advanced Excel.
 2.	Data Visualization and analysis (BI): Tableau/PowerBI/Redash/Datalens.
 3.	Statistical analysis including hypothesis validation.
-4.	Data Engineering: Design of DWH/OLAP, ETL/ELT pipelines via Apache Airflow.
+4.	Data Engineering: Design of DWH/OLAP, ETL/ELT pipelines via Apache Airflow, familiar with Hadoop / Hive.
 5.	Classic Machine Learning methods: regression, classification, clustering.
 6.	Neural Network Basics: TensorFlow / Keras.
 7.	Software version control: Git + Linux.
