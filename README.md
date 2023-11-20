@@ -1,6 +1,6 @@
 Hi there 👋
 
-🔭 I’ve found the role of Data Analyst but in some future, may be interested in new role in Data Science.
+🔭 I’ve started the role of Data Analyst but in some future, may be interested in new role in Data Science.
 
 15+ years of experience in Data Analysis, Business Intelligence, Business Analysis, Sales Operations, Project Management, Demand Forecasting, Sales etc. at FMCG (Procter & Gamble, Kimberly-Clark), Media (Group4M). I graduated from Lomonosov Moscow State University with Ph.D. in Applied Math.
 
