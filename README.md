@@ -15,8 +15,6 @@ My technical stack includes:
 8.	Web Parsing / Scrapping: BeautifulSoap + Selenium.
 9.	Product Analytics: Key metrics and analysis’ methods (Cohort, RFM, LTV and others).
 10.	Financial Analysis: Analysis of financial statements, Unit-economy, financial modeling etc.
-  
-Currently, I've been studying new areas in Machine and Deep Learning (Time Series, Recommendatory systems etc.) and Data Engineering (MPP, Greenplum, Hadoop, Spark etc.) to grow further my skills in Data Science.  
 
 This is the link to the list of Certificates and Diplomas for completed courses: https://docs.google.com/document/d/10b3Bwa1oF2B9raTmVE5Nkra52efjLsbC/edit?usp=drive_link.  
 
