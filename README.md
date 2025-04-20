@@ -18,7 +18,7 @@ My technical stack includes:
 
 This is the link to the list of Certificates and Diplomas for completed courses: https://docs.google.com/document/d/10b3Bwa1oF2B9raTmVE5Nkra52efjLsbC/edit?usp=drive_link.  
 
-More information about my work experience can be found  in my [CV](https://docs.google.com/document/d/1-aXeiVeW0HkGBIXJGcGemxd5B2ceEsBf/edit?usp=drive_link&ouid=115701271018201293889&rtpof=true&sd=true) or in my [Linkedin profile](https://www.linkedin.com/in/igor-grebeniuk-5993b88/).
+More information about my work experience can be found  in my [CV](https://docs.google.com/document/d/1YQM76lQmGMjJwoDyE5tIKbMoZh2kx7Ur/edit?usp=sharing&ouid=115701271018201293889&rtpof=true&sd=true) or in my [Linkedin profile](https://www.linkedin.com/in/igor-grebeniuk-5993b88/).
 
 A year ago I started to upload some projects and tasks completed by me at different courses into the Github to share the level of my skills in analytical tools and business areas. I can't place examples of projects and tasks completed in the companies I worked for due to confidentiality agreements signed by me. Also, I started to add some ad-hoc tasks and projects completed by me.
 
